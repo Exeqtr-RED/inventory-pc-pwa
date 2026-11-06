@@ -4,7 +4,8 @@ on:
   push:
     branches: [main, master]
   workflow_dispatch:
-  permissions:
+
+permissions:
   contents: read
   pages: write
   id-token: write
@@ -37,7 +38,6 @@ jobs:
           bun-version: latest
 
       - name: Установить зависимости
-        # bun.lock используется, если он есть в репозитории
         run: bun install
 
       - name: Включить GitHub Pages
