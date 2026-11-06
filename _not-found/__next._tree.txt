@@ -1,0 +1,3 @@
+:HL["/inventory-pc-pwa/_next/static/chunks/f86ad078d4565720.css","style"]
+:HL["/inventory-pc-pwa/_next/static/chunks/3b17ae0c913c81f1.css","style"]
+0:{"buildId":"Ha30HCCrFbaO5RoVN_hI_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

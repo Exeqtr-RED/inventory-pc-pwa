@@ -1,0 +1,5 @@
+:HL["/inventory-pc-pwa/_next/static/chunks/f86ad078d4565720.css","style"]
+:HL["/inventory-pc-pwa/_next/static/chunks/3b17ae0c913c81f1.css","style"]
+:HL["/inventory-pc-pwa/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/inventory-pc-pwa/_next/static/media/9c72aa0f40e4eef8-s.p.18a48cbc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"Ha30HCCrFbaO5RoVN_hI_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
